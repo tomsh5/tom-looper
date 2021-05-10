@@ -1,0 +1,19 @@
+//SETUP
+@import './setup/variables.scss';
+@import './setup/mixins.scss';
+
+// BASICS
+@import './basics/base.scss';
+@import './basics/layout.scss';
+@import './basics/helpers.scss';
+
+// CMPS 
+
+@import './cmps/app-header.scss';
+@import './cmps/pad-list.scss';
+@import './cmps/pad-preview.scss';
+
+
+//views
+
+@import './views/looper-app.scss'
